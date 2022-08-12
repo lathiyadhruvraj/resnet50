@@ -12,8 +12,10 @@ discontinuous layers. i.e., We can skip some layers, as follows:
 ---
 
 
-### [Residual BLock](.\photos\residual_block.png)
+### Residual Block 
+<img src=".\photos\residual_block.png" alt="p1" width="100%"> 
 
+### Types of Residual Block 
+<img src=".\photos\types_of_resnets.png" alt="p1" width="100%"> 
 
-### [Types of Residual Block](.\photos\types_of_resnets.png)
 
